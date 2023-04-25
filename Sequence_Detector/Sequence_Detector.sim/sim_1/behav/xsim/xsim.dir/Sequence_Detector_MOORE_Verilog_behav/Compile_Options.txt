@@ -1,0 +1,1 @@
+-wto "4c7a15e6935d47098a26b62532d3cfef" --incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "unisims_ver" -L "unimacro_ver" -L "secureip" --snapshot "Sequence_Detector_MOORE_Verilog_behav" "xil_defaultlib.Sequence_Detector_MOORE_Verilog" "xil_defaultlib.glbl" -log "elaborate.log" 

@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.1 (64-bit)
+# SW Build 2188600 on Wed Apr  4 18:40:38 MDT 2018
+# IP Build 2185939 on Wed Apr  4 20:55:05 MDT 2018
+# Start of session at: Tue Apr 25 17:14:16 2023
+# Process ID: 9988
+# Current directory: C:/Users/jelen2/Desktop/Sequence_Detector/Sequence_Detector.runs/synth_1
+# Command line: vivado.exe -log Sequence_Detector_MOORE_Verilog.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source Sequence_Detector_MOORE_Verilog.tcl
+# Log file: C:/Users/jelen2/Desktop/Sequence_Detector/Sequence_Detector.runs/synth_1/Sequence_Detector_MOORE_Verilog.vds
+# Journal file: C:/Users/jelen2/Desktop/Sequence_Detector/Sequence_Detector.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source Sequence_Detector_MOORE_Verilog.tcl -notrace
