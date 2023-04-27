@@ -1,0 +1,23 @@
+#-----------------------------------------------------------
+# Vivado v2018.1 (64-bit)
+# SW Build 2188600 on Wed Apr  4 18:40:38 MDT 2018
+# IP Build 2185939 on Wed Apr  4 20:55:05 MDT 2018
+# Start of session at: Thu Apr 27 15:26:25 2023
+# Process ID: 14292
+# Current directory: C:/Users/jelen2/Documents/GitHub/FPGA-Projects/Sequence_Detector
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent14524 C:\Users\jelen2\Documents\GitHub\FPGA-Projects\Sequence_Detector\Sequence_Detector.xpr
+# Log file: C:/Users/jelen2/Documents/GitHub/FPGA-Projects/Sequence_Detector/vivado.log
+# Journal file: C:/Users/jelen2/Documents/GitHub/FPGA-Projects/Sequence_Detector\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/jelen2/Documents/GitHub/FPGA-Projects/Sequence_Detector/Sequence_Detector.xpr
+INFO: [Project 1-313] Project file moved from 'C:/Users/jelen2/Desktop/Sequence_Detector' since last save.
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2018.1/data/ip'.
+open_project: Time (s): cpu = 00:00:36 ; elapsed = 00:00:31 . Memory (MB): peak = 1181.992 ; gain = 446.746
+update_compile_order -fileset sources_1
+exit
+INFO: [Common 17-206] Exiting Vivado at Thu Apr 27 15:27:38 2023...
