@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2018.1 (64-bit)
+# SW Build 2188600 on Wed Apr  4 18:40:38 MDT 2018
+# IP Build 2185939 on Wed Apr  4 20:55:05 MDT 2018
+# Start of session at: Thu Apr 27 14:06:15 2023
+# Process ID: 9900
+# Current directory: C:/Users/jelen2/Desktop/Labs/BCD_Counter_2/BCD_Counter_2.sim/sim_1/behav/xsim
+# Command line: wbtcv.exe -mode batch -source C:/Users/jelen2/Desktop/Labs/BCD_Counter_2/BCD_Counter_2.sim/sim_1/behav/xsim/xsim.dir/BCD_Counter_tb_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: C:/Users/jelen2/Desktop/Labs/BCD_Counter_2/BCD_Counter_2.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: C:/Users/jelen2/Desktop/Labs/BCD_Counter_2/BCD_Counter_2.sim/sim_1/behav/xsim\webtalk.jou
+#-----------------------------------------------------------
+source C:/Users/jelen2/Desktop/Labs/BCD_Counter_2/BCD_Counter_2.sim/sim_1/behav/xsim/xsim.dir/BCD_Counter_tb_behav/webtalk/xsim_webtalk.tcl -notrace

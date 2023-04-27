@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.1 (64-bit)
+# SW Build 2188600 on Wed Apr  4 18:40:38 MDT 2018
+# IP Build 2185939 on Wed Apr  4 20:55:05 MDT 2018
+# Start of session at: Thu Apr 27 15:00:53 2023
+# Process ID: 15036
+# Current directory: C:/Users/jelen2/Desktop/Labs/BCD_Counter_2/BCD_Counter_2.runs/impl_1
+# Command line: vivado.exe -log BCD_Counter.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source BCD_Counter.tcl -notrace
+# Log file: C:/Users/jelen2/Desktop/Labs/BCD_Counter_2/BCD_Counter_2.runs/impl_1/BCD_Counter.vdi
+# Journal file: C:/Users/jelen2/Desktop/Labs/BCD_Counter_2/BCD_Counter_2.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source BCD_Counter.tcl -notrace
